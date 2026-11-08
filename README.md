@@ -14,6 +14,9 @@
 <img src="pic/TREX.gif" width="500"> 
 <br> <br>
 
+<img src="pic/TRex.png" width="500"> 
+<br> <br>
+
 
 ## Story:
 Das Repo beschreibt die Bastelarbeit "T-Rex". Die Bauteile werden aus einer 3mm Sperrhaltplatte gelasert. Im Gehäuse des T-Rex befindet sich ein Arduino Getriebemotor, dieser wird von zwei AA 1,5V Batterien gespeist.
@@ -34,9 +37,6 @@ Das Repo beschreibt die Bastelarbeit "T-Rex". Die Bauteile werden aus einer 3mm 
 | -------- | -------- | 
 
 
-
-<img src="pic/TRex.png" width="500"> 
-<br> <br>
 
 
 ---
