@@ -33,10 +33,7 @@ Das Repo beschreibt die Bastelarbeit "T-Rex". Die Bauteile werden aus einer 3mm 
 | 1  | Holzkleber  | 
 | -------- | -------- | 
 
-## Der NANO mit Shield und Stiftleisten
 
-<img src="pic/05robi.png" width="500"> 
-<br> <br>
 
 <img src="pic/TRex.png" width="500"> 
 <br> <br>
