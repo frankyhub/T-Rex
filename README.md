@@ -37,6 +37,10 @@ Das Repo beschreibt die Bastelarbeit "T-Rex". Die Bauteile werden aus einer 3mm 
 | -------- | -------- | 
 
 
+## T-Rex Lasercuttter Dateien 
+
+<img src="pic/T-Rex.png" width="500"> 
+<br> <br>
 
 
 ---
