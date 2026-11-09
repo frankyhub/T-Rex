@@ -11,7 +11,7 @@
 
 # T-Rex
 
-<img src="pic/TREX.gif" width="500">
+<img src="pic/T-Rex.gif" width="500">
 <br> <br>
 
 <img src="pic/TRex.png" width="500"> 
