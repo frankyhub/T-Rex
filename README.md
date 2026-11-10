@@ -55,7 +55,7 @@ Die beiden Abstandshalter für das Batterie-Case deckungsgleich verkleben und an
 <img src="pic/Montage02.png" width="500"> 
 <br> <br>
 
-Einen Blankdraht in die kleinen Löcher stecken uns so jeweils 4 Räder deckungsgleich verkleben.  
+Einen Blankdraht durch die kleinen Löcher stecken, um so jeweils 4 Räder deckungsgleich zu verkleben.  
 
 <img src="pic/Montage03.png" width="500"> 
 <br> <br>
