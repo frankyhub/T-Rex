@@ -78,11 +78,12 @@ Den Kopf zusammenbauen und verkleben.
 <br> <br>
 
 Die beiden Arme an die kleinen Rundlinge schrauben, die Arme müssen dabei beweglich und drehbar sein.
+Die beiden Räder auf die Motorachsen stecken.
 
 <img src="pic/Montage07.png" width="500"> 
 <br> <br>
 
-Die Räder auf die Motorachsen stecken und die Arme und die Räder mit einer Blankdrahtbrücke verbinden.
+Die Arme und die Räder mit einer Blankdrahtbrücke verbinden.
 
 <img src="pic/Montage08.png" width="500"> 
 <br> <br>
