@@ -50,7 +50,7 @@ Für beide Seitenteile die 3 kleinen Scheiben deckungsgleich verkleben und ansch
 <img src="pic/Montage01.png" width="500"> 
 <br> <br>
 
-Die beiden Abstandshalter für das Batterie-Case deckungsgleich verkleben und anschließend auf die blaue Markierung der Rückwandkleben.
+Die beiden Abstandshalter für das Batterie-Case deckungsgleich verkleben und anschließend auf die blaue Markierung der Rückwan kleben.
 
 <img src="pic/Montage02.png" width="500"> 
 <br> <br>
