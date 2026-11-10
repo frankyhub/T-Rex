@@ -33,7 +33,7 @@ Das Repo beschreibt die Bastelarbeit "T-Rex". Die Bauteile werden aus einer 3mm 
 | 1  | Batterie-Case für AA-Batterien | 
 |2  |  AA 1,5 V Batterien | 
 |  2 |  Holzschrauben | 
-| 1  | Blankdraht | 
+| 1  | 0,5 mm Blankdraht | 
 | 1  | Holzkleber  | 
 | -------- | -------- | 
 
