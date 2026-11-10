@@ -82,7 +82,7 @@ Die beiden Arme an die kleinen Rundlinge schrauben, die Arme müssen dabei beweg
 <img src="pic/Montage07.png" width="500"> 
 <br> <br>
 
-Die Arme und die Räder mit einer Blankdrahtbrücke verbinden.
+Die Räder auf die Motorachs stecken und die Arme und die Räder mit einer Blankdrahtbrücke verbinden.
 
 <img src="pic/Montage08.png" width="500"> 
 <br> <br>
