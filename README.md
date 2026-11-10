@@ -17,6 +17,7 @@
 <img src="pic/TRex.png" width="500"> 
 <br> <br>
 
+</div>  
 
 ## Story:
 Das Repo beschreibt die Bastelarbeit "T-Rex". Die Bauteile werden aus einer 3mm Sperrhaltplatte gelasert. Im Gehäuse des T-Rex befindet sich ein Arduino Getriebemotor, dieser wird von zwei AA 1,5V Batterien gespeist.
@@ -42,6 +43,56 @@ Das Repo beschreibt die Bastelarbeit "T-Rex". Die Bauteile werden aus einer 3mm 
 <img src="pic/T-Rex.png" width="500"> 
 <br> <br>
 
+## Montage
+
+Für beide Seitenteile die 3 kleinen Scheiben deckungsgleich verkleben und anschließend auf die blaue Markierung der Seitenwand kleben. 
+
+<img src="pic/Montage01.png" width="500"> 
+<br> <br>
+
+Die beiden Abstandshalter für das Batterie-Case deckungsgleich verkleben und anschließend auf die blaue Markierung der Rückwandkleben.
+
+<img src="pic/Montage02.png" width="500"> 
+<br> <br>
+
+Einen Blankdraht in die kleinen Löcher stecken uns so jeweils 4 Räder deckungsgleich verkleben.  
+
+<img src="pic/Montage03.png" width="500"> 
+<br> <br>
+
+Den Motor und die Anschlüsse des Batterie-Case verlöten. Die Anschlussdrähte zuvor durch das Loch der Seitenwand stecken.
+Vor der engültigen Montage des Körpers die Drehrichtung des Motors testen, damit der T-Rex nicht rückwärts läuft.
+
+<img src="pic/Montage04.png" width="500"> 
+<br> <br>
+
+Den Körper zusammenbauen und verkleben. Der Motor muss vor dem endgültigen Verleben im Körper sein.
+
+<img src="pic/Montage05.png" width="500"> 
+<br> <br>
+
+
+Den Kopf zusammenbauen und verkleben.
+
+<img src="pic/Montage06.png" width="500"> 
+<br> <br>
+
+Die beiden Arme an die kleinen Rundlinge schrauben, die Arme müssen dabei beweglich und drehbar sein.
+
+<img src="pic/Montage07.png" width="500"> 
+<br> <br>
+
+Die Arme und die Räder mit einer Blankdrahtbrücke verbinden.
+
+<img src="pic/Montage08.png" width="500"> 
+<br> <br>
+
+Den Kopf auf den Körper kleben.
+
+<img src="pic/Montage09.png" width="500"> 
+<br> <br>
+
+Fertig!
 
 ---
 
