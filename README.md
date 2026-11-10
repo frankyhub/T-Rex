@@ -87,7 +87,7 @@ Die Arme und die Räder mit einer Blankdrahtbrücke verbinden.
 <img src="pic/Montage08.png" width="500"> 
 <br> <br>
 
-Den Kopf auf den Körper kleben.
+Den Kopf und das Batterie-Case an den Körper kleben.
 
 <img src="pic/Montage09.png" width="500"> 
 <br> <br>
